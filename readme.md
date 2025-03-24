@@ -1,7 +1,7 @@
 Domain Checker
 ===
 
-This tool checks if a given domain is free and sends a message into your preferred Telegram group.
+This tool checks if a given domain is free and sends a the result into your preferred Telegram group. 
 
 ### Installation
 In order to use this script, you will need a Telegram bot (bots for other platforms and/or mail may follow soon). 
